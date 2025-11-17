@@ -1,4 +1,5 @@
 # 🏡 Azerbaijan Real Estate Market Analysis
+
 ## Comprehensive Market Intelligence Report 2025
 
 ---
@@ -494,18 +495,21 @@ Nearly 60% of properties come renovated, setting buyer expectation. Properties w
 ## 📈 MARKET TRENDS & PREDICTIONS
 
 ### Current Market State
+
 - **Inventory Level:** High (good buyer's market)
 - **Price Stability:** Moderate (±5% annual variation)
 - **Demand Pattern:** Strong for 3-room apartments in mid-range segment
 - **Supply Pattern:** Increasing new construction in suburban areas
 
 ### Emerging Trends
+
 1. **Shift to mid-rise:** 9-14 floor buildings replacing low-rise
 2. **Renovation standard:** Buyers expect move-in ready properties
 3. **Location premium:** Central locations commanding higher multiples
 4. **Financing access:** Mortgage availability expanding market access
 
 ### Opportunities
+
 - **Renovation flips:** 30-40% margin potential in good locations
 - **Pre-construction:** Early-stage developments offering 20-30% discount
 - **Regional expansion:** Emerging cities showing 15-25% annual growth
@@ -516,18 +520,21 @@ Nearly 60% of properties come renovated, setting buyer expectation. Properties w
 ## 🎓 METHODOLOGY
 
 ### Data Collection
+
 - **Sources:** 16 major real estate platforms
 - **Total Records:** 335,696 properties
 - **Time Period:** Multiple snapshots from 2023-2025
 - **Geographic Coverage:** Nationwide
 
 ### Data Processing
+
 1. **Standardization:** All datasets transformed to unified schema (30 columns)
 2. **Cleaning:** Outliers removed (top/bottom 1%)
 3. **Validation:** Cross-platform duplicate detection
 4. **Enrichment:** Feature engineering (price/m², area/room, segments)
 
 ### Analysis Framework
+
 - **Statistical:** Mean, median, standard deviation, percentiles
 - **Segmentation:** Price ranges, property types, locations
 - **Correlation:** Multi-variate analysis of price drivers
@@ -614,9 +621,9 @@ Whether you're buying your first home, selling a property, investing for returns
 
 ---
 
-**📅 Report Date:** November 2025
-**📊 Data Points:** 335,696 properties
-**📍 Coverage:** Nationwide Azerbaijan
+**📅 Report Date:** November 2025  
+**📊 Data Points:** 335,696 properties  
+**📍 Coverage:** Nationwide Azerbaijan  
 **🔄 Last Updated:** November 18, 2025
 
 ---
